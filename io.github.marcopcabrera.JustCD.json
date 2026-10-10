@@ -1,0 +1,107 @@
+{
+    "id" : "io.github.marcopcabrera.JustCD",
+    "runtime" : "org.gnome.Platform",
+    "runtime-version" : "50",
+    "sdk" : "org.gnome.Sdk",
+    "command" : "justcd",
+    "separate-locales" : false,
+    "finish-args" : [
+        "--share=network",
+        "--share=ipc",
+        "--socket=fallback-x11",
+        "--device=dri",
+        "--socket=wayland",
+        "--device=all",
+        "--socket=pulseaudio",
+        "--own-name=org.mpris.MediaPlayer2.*",
+        "--system-talk-name=org.freedesktop.UDisks2"
+    ],
+
+    "cleanup" : [
+        "/include",
+        "/lib/pkgconfig",
+        "/man",
+        "/share/doc",
+        "/share/gtk-doc",
+        "/share/man",
+        "/share/pkgconfig",
+        "*.la",
+        "*.a"
+    ],
+    "modules" : [
+        {
+            "name" : "libcdio",
+            "buildsystem" : "autotools",
+            "sources" : [
+                {
+                    "type" : "archive",
+                    "url" : "https://ftpmirror.gnu.org/libcdio/libcdio-2.1.0.tar.bz2",
+                    "sha256" : "8550e9589dbd594bfac93b81ecf129b1dc9d0d51e90f9696f1b2f9b2af32712b"
+                }
+            ]
+        },
+        {
+            "name" : "libcdio-paranoia",
+            "buildsystem" : "autotools",
+            "sources" : [
+                {
+                    "type" : "git",
+                    "url" : "https://github.com/rocky/libcdio-paranoia.git",
+                    "branch" : "master"
+                }
+            ],
+            "post-install" : [
+                "mkdir -p /app/lib/pkgconfig",
+                "echo 'prefix=/app' > /app/lib/pkgconfig/cdparanoia.pc",
+                "echo 'exec_prefix=${prefix}' >> /app/lib/pkgconfig/cdparanoia.pc",
+                "echo 'libdir=${exec_prefix}/lib' >> /app/lib/pkgconfig/cdparanoia.pc",
+                "echo 'includedir=${prefix}/include' >> /app/lib/pkgconfig/cdparanoia.pc",
+                "echo '' >> /app/lib/pkgconfig/cdparanoia.pc",
+                "echo 'Name: cdparanoia' >> /app/lib/pkgconfig/cdparanoia.pc",
+                "echo 'Description: CD paranoia extraction library' >> /app/lib/pkgconfig/cdparanoia.pc",
+                "echo 'Version: 10.2' >> /app/lib/pkgconfig/cdparanoia.pc",
+                "echo 'Libs: -L${libdir} -lcdio_paranoia' >> /app/lib/pkgconfig/cdparanoia.pc",
+                "echo 'Cflags: -I${includedir}/cdio' >> /app/lib/pkgconfig/cdparanoia.pc",
+
+                "echo 'prefix=/app' > /app/lib/pkgconfig/cdda.pc",
+                "echo 'exec_prefix=${prefix}' >> /app/lib/pkgconfig/cdda.pc",
+                "echo 'libdir=${exec_prefix}/lib' >> /app/lib/pkgconfig/cdda.pc",
+                "echo 'includedir=${prefix}/include' >> /app/lib/pkgconfig/cdda.pc",
+                "echo '' >> /app/lib/pkgconfig/cdda.pc",
+                "echo 'Name: cdda' >> /app/lib/pkgconfig/cdda.pc",
+                "echo 'Description: CDDA library' >> /app/lib/pkgconfig/cdda.pc",
+                "echo 'Version: 2.1.0' >> /app/lib/pkgconfig/cdda.pc",
+                "echo 'Libs: -L${libdir} -lcdio_cdda' >> /app/lib/pkgconfig/cdda.pc",
+                "echo 'Cflags: -I${includedir}/cdio' >> /app/lib/pkgconfig/cdda.pc"
+            ]
+        },
+ {
+            "name" : "gst-plugins-ugly",
+            "buildsystem" : "meson",
+            "config-opts" : [
+                "-Dcdio=enabled",
+                "-Dgpl=enabled",
+                "-Dtests=disabled",
+                "-Dnls=disabled"
+            ],
+            "sources" : [
+                {
+                    "type" : "archive",
+                    "url" : "https://gstreamer.freedesktop.org/src/gst-plugins-ugly/gst-plugins-ugly-1.24.9.tar.xz",
+                    "sha256" : "4b6b30110f38cd05eb67422297142b75a55fe00003105f48b13603e6761cc3b6"
+                }
+            ]
+        },
+        {
+            "name" : "justcd",
+            "builddir" : true,
+            "buildsystem" : "meson",
+            "sources" : [
+                {
+                    "type" : "dir",
+                    "path" : "."
+                }
+            ]
+        }
+    ]
+}
