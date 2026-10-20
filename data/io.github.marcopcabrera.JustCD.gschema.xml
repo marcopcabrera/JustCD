@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="justcd">
+	<schema id="io.github.marcopcabrera.JustCD" path="/io/github/marcopcabrera/JustCD/">
+	</schema>
+</schemalist>

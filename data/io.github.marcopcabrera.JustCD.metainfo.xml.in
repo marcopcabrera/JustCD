@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.marcopcabrera.JustCD</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+
+  <name>JustCD</name>
+  <summary>Listen to Audio CDs</summary>
+
+  <description>
+    <p>
+      JustCD is a minimalist audio compact disc player designed specifically for GNOME and Fedora Linux. It focuses on simplicity and pure listening without unnecessary clutter.
+    </p>
+    <p>Features include:</p>
+    <ul>
+      <li>Pure and lossless audio playback powered by GStreamer.</li>
+      <li>Automatic album cover art and song titles fetched via MusicBrainz and Cover Art Archive.</li>
+      <li>Instant synchronization with hardware tray ejection using UDisks2.</li>
+      <li>Resilient offline fallback when no internet connection is available.</li>
+      <li>Seamless desktop integration via MPRIS2 and keyboard shortcuts.</li>
+      <li>Clean and modern Libadwaita user interface.</li>
+    </ul>
+  </description>
+
+  <developer id="io.github.marcopcabrera">
+    <name>Marco P. Cabrera</name>
+  </developer>
+
+  <url type="homepage">https://github.com/marcopcabrera/JustCD</url>
+  <url type="bugtracker">https://github.com/marcopcabrera/JustCD/issues</url>
+  <url type="vcs-browser">https://github.com/marcopcabrera/JustCD</url>
+
+  <translation type="gettext">justcd</translation>
+  <launchable type="desktop-id">io.github.marcopcabrera.JustCD.desktop</launchable>
+
+  <content_rating type="oars-1.1" />
+
+  <branding>
+    <color type="primary" scheme_preference="light">#3584e4</color>
+    <color type="primary" scheme_preference="dark">#1c71d8</color>
+  </branding>
+
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/marcopcabrera/JustCD/main/screenshot.png</image>
+      <caption>JustCD playing an audio compact disc</caption>
+    </screenshot>
+  </screenshots>
+
+  <releases>
+    <release version="1.0.0" date="2026-11-01">
+      <description translate="no">
+        <p>Initial release of JustCD.</p>
+        <ul>
+          <li>Full CD playback with track navigation.</li>
+          <li>MusicBrainz metadata and high-definition cover art.</li>
+          <li>Libadwaita interface with preferences and keyboard shortcuts.</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+
+</component>

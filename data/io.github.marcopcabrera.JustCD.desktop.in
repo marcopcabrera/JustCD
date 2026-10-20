@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=JustCD
+GenericName=Audio CD Player
+GenericName[es]=Reproductor de CD de audio
+Comment=Play audio compact discs with a simple and modern interface
+Comment[es]=Reproduce discos compactos de audio con una interfaz simple y moderna
+Exec=justcd
+Icon=io.github.marcopcabrera.JustCD
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;AudioVideo;Audio;Player;
+Keywords=CD;Audio;Player;Music;Compact Disc;
+Keywords[es]=CD;Audio;Player;Música;Reproductor;Disco;Compacto;
+StartupNotify=true
+DBusActivatable=false
