@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: justcd 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/marcopcabrera/JustCD/issues\n"
+"POT-Creation-Date: 2026-11-01 12:00+0000\n"
+"PO-Revision-Date: 2026-11-01 12:00+0000\n"
+"Last-Translator: Gemini AI\n"
+"Language-Team: Japanese\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "translator-credits"
+msgstr "Gemini AI"
+
+msgid "Preferences"
+msgstr "設定"
+
+msgid "General"
+msgstr "一般"
+
+msgid "Playback"
+msgstr "再生"
+
+msgid "Automatic Playback"
+msgstr "自動再生"
+
+msgid "Start music immediately when a CD is inserted"
+msgstr "CDが挿入されたらすぐに音楽を開始する"
+
+msgid "Eject on Finish"
+msgstr "終了時に取り出す"
+
+msgid "Open the tray automatically when the album ends"
+msgstr "アルバム終了時にトレイを自動的に開く"
+
+msgid "Network and Privacy"
+msgstr "ネットワークとプライバシー"
+
+msgid "Download Online Information"
+msgstr "オンライン情報をダウンロード"
+
+msgid "Query MusicBrainz for album covers and track names"
+msgstr "アルバムアートと曲名をMusicBrainzで検索"
+
+msgid "Audio CD"
+msgstr "音楽CD"
+
+msgid "Unknown"
+msgstr "不明"
+
+msgid "Insert an Audio CD"
+msgstr "音楽CDを挿入してください"
+
+msgid "Random playback"
+msgstr "シャッフル再生"
+
+msgid "Repeat: Disabled"
+msgstr "リピート: 無効"
+
+msgid "Mute / Restore volume"
+msgstr "ミュート / 音量を戻す"
+
+msgid "Track List"
+msgstr "トラックリスト"
+
+msgid "Eject disc"
+msgstr "ディスクを取り出す"
+
+msgid "Keyboard Shortcuts"
+msgstr "キーボードショートカット"
+
+msgid "About JustCD"
+msgstr "JustCD について"
+
+msgid "Options"
+msgstr "オプション"
+
+msgid "Open Source Technologies"
+msgstr "オープンソース技術"
+
+msgid "Technical Assistance"
+msgstr "技術支援"
+
+msgid "Close tray"
+msgstr "トレイを閉じる"
+
+msgid "Tray Open / No CD"
+msgstr "トレイが開いています / CDがありません"
+
+#, python-format
+msgid "Track %d"
+msgstr "トラック %d"
+
+msgid "Track 1"
+msgstr "トラック 1"
+
+msgid "Identifying album…"
+msgstr "アルバムを識別中…"
+
+msgid "Querying MusicBrainz…"
+msgstr "MusicBrainz に問い合わせ中…"
+
+msgid "Unknown Album"
+msgstr "不明なアルバム"
+
+msgid "Unknown Artist"
+msgstr "不明なアーティスト"
+
+msgid "Reading CD…"
+msgstr "CDを読み込み中…"
+
+msgid "Loading tracks…"
+msgstr "トラックを読み込み中…"
+
+msgid "Repeat: Full disc"
+msgstr "リピート: ディスク全体"
+
+msgid "Repeat: Current track"
+msgstr "リピート: 現在のトラック"
+
+msgid "Audio CD Player"
+msgstr "音楽CDプレーヤー"
+
+msgid "Play audio compact discs with a simple and modern interface"
+msgstr "シンプルでモダンなインターフェースで音楽CDを再生します"
+
+msgid "Listen to Audio CDs"
+msgstr "音楽CDを聴く"

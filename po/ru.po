@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: justcd 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/marcopcabrera/JustCD/issues\n"
+"POT-Creation-Date: 2026-11-01 12:00+0000\n"
+"PO-Revision-Date: 2026-11-01 12:00+0000\n"
+"Last-Translator: Gemini AI\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "translator-credits"
+msgstr "Gemini AI"
+
+msgid "Preferences"
+msgstr "Настройки"
+
+msgid "General"
+msgstr "Общие"
+
+msgid "Playback"
+msgstr "Воспроизведение"
+
+msgid "Automatic Playback"
+msgstr "Автоматическое воспроизведение"
+
+msgid "Start music immediately when a CD is inserted"
+msgstr "Запускать воспроизведение сразу при вставке CD"
+
+msgid "Eject on Finish"
+msgstr "Извлечь по окончании"
+
+msgid "Open the tray automatically when the album ends"
+msgstr "Автоматически открывать лоток после окончания альбома"
+
+msgid "Network and Privacy"
+msgstr "Сеть и конфиденциальность"
+
+msgid "Download Online Information"
+msgstr "Загружать информацию из сети"
+
+msgid "Query MusicBrainz for album covers and track names"
+msgstr "Запрашивать обложки и названия треков в MusicBrainz"
+
+msgid "Audio CD"
+msgstr "Аудио CD"
+
+msgid "Unknown"
+msgstr "Неизвестно"
+
+msgid "Insert an Audio CD"
+msgstr "Вставьте аудио CD"
+
+msgid "Random playback"
+msgstr "Случайный порядок"
+
+msgid "Repeat: Disabled"
+msgstr "Повтор: Отключен"
+
+msgid "Mute / Restore volume"
+msgstr "Выключить / Включить звук"
+
+msgid "Track List"
+msgstr "Список треков"
+
+msgid "Eject disc"
+msgstr "Извлечь диск"
+
+msgid "Keyboard Shortcuts"
+msgstr "Комбинации клавиш"
+
+msgid "About JustCD"
+msgstr "О приложении JustCD"
+
+msgid "Options"
+msgstr "Параметры"
+
+msgid "Open Source Technologies"
+msgstr "Открытые технологии"
+
+msgid "Technical Assistance"
+msgstr "Техническая помощь"
+
+msgid "Close tray"
+msgstr "Закрыть лоток"
+
+msgid "Tray Open / No CD"
+msgstr "Лоток открыт / Нет CD"
+
+#, python-format
+msgid "Track %d"
+msgstr "Трек %d"
+
+msgid "Track 1"
+msgstr "Трек 1"
+
+msgid "Identifying album…"
+msgstr "Определение альбома…"
+
+msgid "Querying MusicBrainz…"
+msgstr "Запрос к MusicBrainz…"
+
+msgid "Unknown Album"
+msgstr "Неизвестный альбом"
+
+msgid "Unknown Artist"
+msgstr "Неизвестный исполнитель"
+
+msgid "Reading CD…"
+msgstr "Чтение CD…"
+
+msgid "Loading tracks…"
+msgstr "Загрузка треков…"
+
+msgid "Repeat: Full disc"
+msgstr "Повтор: Весь диск"
+
+msgid "Repeat: Current track"
+msgstr "Повтор: Текущий трек"
+
+msgid "Audio CD Player"
+msgstr "Проигрыватель аудио CD"
+
+msgid "Play audio compact discs with a simple and modern interface"
+msgstr "Воспроизведение аудио-компакт-дисков с простым и современным интерфейсом"
+
+msgid "Listen to Audio CDs"
+msgstr "Слушайте аудио CD"

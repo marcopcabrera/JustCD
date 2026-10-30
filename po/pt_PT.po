@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: justcd 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/marcopcabrera/JustCD/issues\n"
+"POT-Creation-Date: 2026-11-01 12:00+0000\n"
+"PO-Revision-Date: 2026-11-01 12:00+0000\n"
+"Last-Translator: Susana Leão\n"
+"Language-Team: Portuguese (Portugal)\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "translator-credits"
+msgstr "Susana Leão"
+
+msgid "Preferences"
+msgstr "Preferências"
+
+msgid "General"
+msgstr "Geral"
+
+msgid "Playback"
+msgstr "Reprodução"
+
+msgid "Automatic Playback"
+msgstr "Reprodução automática"
+
+msgid "Start music immediately when a CD is inserted"
+msgstr "Iniciar a música imediatamente ao inserir um CD"
+
+msgid "Eject on Finish"
+msgstr "Ejetar ao terminar"
+
+msgid "Open the tray automatically when the album ends"
+msgstr "Abrir o tabuleiro automaticamente quando o álbum terminar"
+
+msgid "Network and Privacy"
+msgstr "Rede e Privacidade"
+
+msgid "Download Online Information"
+msgstr "Transferir informações online"
+
+msgid "Query MusicBrainz for album covers and track names"
+msgstr "Consultar o MusicBrainz para obter capas e nomes de faixas"
+
+msgid "Audio CD"
+msgstr "CD de Áudio"
+
+msgid "Unknown"
+msgstr "Desconhecido"
+
+msgid "Insert an Audio CD"
+msgstr "Insira um CD de Áudio"
+
+msgid "Random playback"
+msgstr "Reprodução aleatória"
+
+msgid "Repeat: Disabled"
+msgstr "Repetir: Desativado"
+
+msgid "Mute / Restore volume"
+msgstr "Silenciar / Restaurar volume"
+
+msgid "Track List"
+msgstr "Lista de Faixas"
+
+msgid "Eject disc"
+msgstr "Ejetar disco"
+
+msgid "Keyboard Shortcuts"
+msgstr "Atalhos de Teclado"
+
+msgid "About JustCD"
+msgstr "Sobre o JustCD"
+
+msgid "Options"
+msgstr "Opções"
+
+msgid "Open Source Technologies"
+msgstr "Tecnologias de Código Aberto"
+
+msgid "Technical Assistance"
+msgstr "Assistência Técnica"
+
+msgid "Close tray"
+msgstr "Fechar tabuleiro"
+
+msgid "Tray Open / No CD"
+msgstr "Tabuleiro aberto / Sem CD"
+
+#, python-format
+msgid "Track %d"
+msgstr "Faixa %d"
+
+msgid "Track 1"
+msgstr "Faixa 1"
+
+msgid "Identifying album…"
+msgstr "A identificar o álbum…"
+
+msgid "Querying MusicBrainz…"
+msgstr "A consultar o MusicBrainz…"
+
+msgid "Unknown Album"
+msgstr "Álbum desconhecido"
+
+msgid "Unknown Artist"
+msgstr "Artista desconhecido"
+
+msgid "Reading CD…"
+msgstr "A ler o CD…"
+
+msgid "Loading tracks…"
+msgstr "A carregar as faixas…"
+
+msgid "Repeat: Full disc"
+msgstr "Repetir: Disco completo"
+
+msgid "Repeat: Current track"
+msgstr "Repetir: Faixa atual"
+
+msgid "Audio CD Player"
+msgstr "Leitor de CDs de Áudio"
+
+msgid "Play audio compact discs with a simple and modern interface"
+msgstr "Reproduza discos compactos de áudio com uma interface simples e moderna"
+
+msgid "Listen to Audio CDs"
+msgstr "Ouvir CDs de Áudio"

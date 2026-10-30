@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: justcd 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/marcopcabrera/JustCD/issues\n"
+"POT-Creation-Date: 2026-11-01 12:00+0000\n"
+"PO-Revision-Date: 2026-11-01 12:00+0000\n"
+"Last-Translator: Gemini AI\n"
+"Language-Team: Basque\n"
+"Language: eu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "translator-credits"
+msgstr "Gemini AI"
+
+msgid "Preferences"
+msgstr "Hobespenak"
+
+msgid "General"
+msgstr "Orokorra"
+
+msgid "Playback"
+msgstr "Erreprodukzioa"
+
+msgid "Automatic Playback"
+msgstr "Erreprodukzio automatikoa"
+
+msgid "Start music immediately when a CD is inserted"
+msgstr "Hasi musika berehala CD bat sartzean"
+
+msgid "Eject on Finish"
+msgstr "Egotzi amaitzean"
+
+msgid "Open the tray automatically when the album ends"
+msgstr "Ireki erretilua automatikoki diskoa amaitzean"
+
+msgid "Network and Privacy"
+msgstr "Sarea eta pribatutasuna"
+
+msgid "Download Online Information"
+msgstr "Deskargatu sareko informazioa"
+
+msgid "Query MusicBrainz for album covers and track names"
+msgstr "Kontsultatu MusicBrainz azal eta pista-izenak lortzeko"
+
+msgid "Audio CD"
+msgstr "Audio CDa"
+
+msgid "Unknown"
+msgstr "Ezezaguna"
+
+msgid "Insert an Audio CD"
+msgstr "Sartu audio CD bat"
+
+msgid "Random playback"
+msgstr "Ausazko erreprodukzioa"
+
+msgid "Repeat: Disabled"
+msgstr "Errepikatu: Desgaituta"
+
+msgid "Mute / Restore volume"
+msgstr "Mututu / Berreskuratu bolumena"
+
+msgid "Track List"
+msgstr "Pista zerrenda"
+
+msgid "Eject disc"
+msgstr "Egotzi diskoa"
+
+msgid "Keyboard Shortcuts"
+msgstr "Teklatuko lasterbideak"
+
+msgid "About JustCD"
+msgstr "JustCD-ri buruz"
+
+msgid "Options"
+msgstr "Aukerak"
+
+msgid "Open Source Technologies"
+msgstr "Teknologia libreak"
+
+msgid "Technical Assistance"
+msgstr "Laguntza teknikoa"
+
+msgid "Close tray"
+msgstr "Itxi erretilua"
+
+msgid "Tray Open / No CD"
+msgstr "Erretilua irekita / CDrik ez"
+
+#, python-format
+msgid "Track %d"
+msgstr "%d. pista"
+
+msgid "Track 1"
+msgstr "1. pista"
+
+msgid "Identifying album…"
+msgstr "Albuma identifikatzen…"
+
+msgid "Querying MusicBrainz…"
+msgstr "MusicBrainz kontsultatzen…"
+
+msgid "Unknown Album"
+msgstr "Album ezezaguna"
+
+msgid "Unknown Artist"
+msgstr "Artista ezezaguna"
+
+msgid "Reading CD…"
+msgstr "CDa irakurtzen…"
+
+msgid "Loading tracks…"
+msgstr "Pistak kargatzen…"
+
+msgid "Repeat: Full disc"
+msgstr "Errepikatu: Disko osoa"
+
+msgid "Repeat: Current track"
+msgstr "Errepikatu: Uneko pista"
+
+msgid "Audio CD Player"
+msgstr "Audio CD erreproduzitzailea"
+
+msgid "Play audio compact discs with a simple and modern interface"
+msgstr "Erreproduzitu audio disko konpaktuak interfaze sinple eta moderno batekin"
+
+msgid "Listen to Audio CDs"
+msgstr "Entzun audio CDak"

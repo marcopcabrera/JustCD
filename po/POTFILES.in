@@ -1,0 +1,6 @@
+data/io.github.marcopcabrera.JustCD.desktop.in
+data/io.github.marcopcabrera.JustCD.gschema.xml
+data/io.github.marcopcabrera.JustCD.metainfo.xml.in
+gtk/help-overlay.ui
+src/main.py
+src/window.py

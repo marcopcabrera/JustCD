@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: justcd 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/marcopcabrera/JustCD/issues\n"
+"POT-Creation-Date: 2026-11-01 12:00+0000\n"
+"PO-Revision-Date: 2026-11-01 12:00+0000\n"
+"Last-Translator: Gemini AI\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "translator-credits"
+msgstr "Gemini AI"
+
+msgid "Preferences"
+msgstr "Préférences"
+
+msgid "General"
+msgstr "Général"
+
+msgid "Playback"
+msgstr "Lecture"
+
+msgid "Automatic Playback"
+msgstr "Lecture automatique"
+
+msgid "Start music immediately when a CD is inserted"
+msgstr "Démarrer la musique dès l'insertion d'un CD"
+
+msgid "Eject on Finish"
+msgstr "Éjecter à la fin"
+
+msgid "Open the tray automatically when the album ends"
+msgstr "Ouvrir automatiquement le tiroir à la fin de l'album"
+
+msgid "Network and Privacy"
+msgstr "Réseau et confidentialité"
+
+msgid "Download Online Information"
+msgstr "Télécharger des informations en ligne"
+
+msgid "Query MusicBrainz for album covers and track names"
+msgstr "Consulter MusicBrainz pour les pochettes et les titres des pistes"
+
+msgid "Audio CD"
+msgstr "CD Audio"
+
+msgid "Unknown"
+msgstr "Inconnu"
+
+msgid "Insert an Audio CD"
+msgstr "Insérez un CD audio"
+
+msgid "Random playback"
+msgstr "Lecture aléatoire"
+
+msgid "Repeat: Disabled"
+msgstr "Répétition : Désactivée"
+
+msgid "Mute / Restore volume"
+msgstr "Couper / Rétablir le son"
+
+msgid "Track List"
+msgstr "Liste des pistes"
+
+msgid "Eject disc"
+msgstr "Éjecter le disque"
+
+msgid "Keyboard Shortcuts"
+msgstr "Raccourcis clavier"
+
+msgid "About JustCD"
+msgstr "À propos de JustCD"
+
+msgid "Options"
+msgstr "Options"
+
+msgid "Open Source Technologies"
+msgstr "Technologies Open Source"
+
+msgid "Technical Assistance"
+msgstr "Assistance technique"
+
+msgid "Close tray"
+msgstr "Fermer le tiroir"
+
+msgid "Tray Open / No CD"
+msgstr "Tiroir ouvert / Aucun CD"
+
+#, python-format
+msgid "Track %d"
+msgstr "Piste %d"
+
+msgid "Track 1"
+msgstr "Piste 1"
+
+msgid "Identifying album…"
+msgstr "Identification de l'album…"
+
+msgid "Querying MusicBrainz…"
+msgstr "Consultation de MusicBrainz…"
+
+msgid "Unknown Album"
+msgstr "Album inconnu"
+
+msgid "Unknown Artist"
+msgstr "Artiste inconnu"
+
+msgid "Reading CD…"
+msgstr "Lecture du CD…"
+
+msgid "Loading tracks…"
+msgstr "Chargement des pistes…"
+
+msgid "Repeat: Full disc"
+msgstr "Répéter : Disque entier"
+
+msgid "Repeat: Current track"
+msgstr "Répéter : Piste actuelle"
+
+msgid "Audio CD Player"
+msgstr "Lecteur de CD audio"
+
+msgid "Play audio compact discs with a simple and modern interface"
+msgstr "Lisez des disques compacts audio avec une interface simple et moderne"
+
+msgid "Listen to Audio CDs"
+msgstr "Écouter des CD audio"

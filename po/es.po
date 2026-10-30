@@ -1,0 +1,170 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: justcd 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/marcopcabrera/JustCD/issues\n"
+"POT-Creation-Date: 2026-11-01 12:00+0000\n"
+"PO-Revision-Date: 2026-11-01 12:00+0000\n"
+"Last-Translator: Marco P. Cabrera\n"
+"Language-Team: Spanish\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/window.py:108
+msgid "Preferences"
+msgstr "Preferencias"
+
+#: src/window.py:113
+msgid "General"
+msgstr "General"
+
+#: src/window.py:118
+msgid "Playback"
+msgstr "Reproducción"
+
+#: src/window.py:121
+msgid "Automatic Playback"
+msgstr "Reproducción automática"
+
+#: src/window.py:122
+msgid "Start music immediately when a CD is inserted"
+msgstr "Iniciar música inmediatamente al insertar un CD"
+
+#: src/window.py:128
+msgid "Eject on Finish"
+msgstr "Expulsar al terminar"
+
+#: src/window.py:129
+msgid "Open the tray automatically when the album ends"
+msgstr "Abrir la bandeja automáticamente al finalizar el disco"
+
+#: src/window.py:136
+msgid "Network and Privacy"
+msgstr "Red y Privacidad"
+
+#: src/window.py:139
+msgid "Download Online Information"
+msgstr "Descargar información en línea"
+
+#: src/window.py:140
+msgid "Query MusicBrainz for album covers and track names"
+msgstr "Consultar MusicBrainz para portadas y nombres de pistas"
+
+#: src/window.py:175
+msgid "Audio CD"
+msgstr "Audio CD"
+
+#: src/window.py:176
+msgid "Unknown"
+msgstr "Desconocido"
+
+#: src/window.py:270
+msgid "Insert an Audio CD"
+msgstr "Inserta un CD de audio"
+
+#: src/window.py:307
+msgid "Random playback"
+msgstr "Reproducción aleatoria"
+
+#: src/window.py:328
+msgid "Repeat: Disabled"
+msgstr "Repetir: Desactivado"
+
+#: src/window.py:348
+msgid "Mute / Restore volume"
+msgstr "Silenciar / Restaurar volumen"
+
+#: src/window.py:365
+msgid "Track List"
+msgstr "Lista de Canciones"
+
+#: src/window.py:382
+msgid "Eject disc"
+msgstr "Expulsar disco"
+
+#: src/window.py:390
+msgid "Keyboard Shortcuts"
+msgstr "Atajos del teclado"
+
+#: src/window.py:391
+msgid "About JustCD"
+msgstr "Acerca de JustCD"
+
+#: src/window.py:406
+msgid "Options"
+msgstr "Opciones"
+
+#: src/window.py:433
+msgid "Susana Leão (Portuguese - Portugal)"
+msgstr "Susana Leão (Portugués - Portugal)"
+
+#: src/window.py:435
+msgid "Open Source Technologies"
+msgstr "Tecnologías Libres"
+
+#: src/window.py:441
+msgid "Technical Assistance"
+msgstr "Asistencia Técnica"
+
+#: src/window.py:488
+msgid "Close tray"
+msgstr "Cerrar bandeja"
+
+#: src/window.py:489
+msgid "Tray Open / No CD"
+msgstr "Bandeja abierta / Sin CD"
+
+#: src/window.py:497
+#, python-format
+msgid "Track %d"
+msgstr "Pista %d"
+
+#: src/window.py:507
+msgid "Track 1"
+msgstr "Pista 1"
+
+#: src/window.py:532
+msgid "Identifying album…"
+msgstr "Identificando álbum…"
+
+#: src/window.py:533
+msgid "Querying MusicBrainz…"
+msgstr "Consultando MusicBrainz…"
+
+#: src/window.py:588
+msgid "Unknown Album"
+msgstr "Álbum desconocido"
+
+#: src/window.py:588
+msgid "Unknown Artist"
+msgstr "Artista desconocido"
+
+#: src/window.py:760
+msgid "Reading CD…"
+msgstr "Leyendo CD…"
+
+#: src/window.py:761
+msgid "Loading tracks…"
+msgstr "Cargando pistas…"
+
+#: src/window.py:781
+msgid "Repeat: Full disc"
+msgstr "Repetir: Disco completo"
+
+#: src/window.py:789
+msgid "Repeat: Current track"
+msgstr "Repetir: Canción actual"
+
+#: data/io.github.marcopcabrera.JustCD.desktop.in:4
+msgid "Audio CD Player"
+msgstr "Reproductor de CD de audio"
+
+#: data/io.github.marcopcabrera.JustCD.desktop.in:5
+msgid "Play audio compact discs with a simple and modern interface"
+msgstr "Reproduce discos compactos de audio con una interfaz simple y moderna"
+
+#: data/io.github.marcopcabrera.JustCD.metainfo.xml.in:9
+msgid "Listen to Audio CDs"
+msgstr "Escucha CDs de audio"

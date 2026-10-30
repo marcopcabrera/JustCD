@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: justcd 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/marcopcabrera/JustCD/issues\n"
+"POT-Creation-Date: 2026-11-01 12:00+0000\n"
+"PO-Revision-Date: 2026-11-01 12:00+0000\n"
+"Last-Translator: Gemini AI\n"
+"Language-Team: Catalan\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "translator-credits"
+msgstr "Gemini AI"
+
+msgid "Preferences"
+msgstr "Preferències"
+
+msgid "General"
+msgstr "General"
+
+msgid "Playback"
+msgstr "Reproducció"
+
+msgid "Automatic Playback"
+msgstr "Reproducció automàtica"
+
+msgid "Start music immediately when a CD is inserted"
+msgstr "Inicia la música immediatament en inserir un CD"
+
+msgid "Eject on Finish"
+msgstr "Expulsa en acabar"
+
+msgid "Open the tray automatically when the album ends"
+msgstr "Obre la safata automàticament en finalitzar el disc"
+
+msgid "Network and Privacy"
+msgstr "Xarxa i privacitat"
+
+msgid "Download Online Information"
+msgstr "Baixa informació en línia"
+
+msgid "Query MusicBrainz for album covers and track names"
+msgstr "Consulta MusicBrainz per obtenir portades i títols de pistes"
+
+msgid "Audio CD"
+msgstr "CD d'àudio"
+
+msgid "Unknown"
+msgstr "Desconegut"
+
+msgid "Insert an Audio CD"
+msgstr "Inseriu un CD d'àudio"
+
+msgid "Random playback"
+msgstr "Reproducció aleatòria"
+
+msgid "Repeat: Disabled"
+msgstr "Repetició: Desactivada"
+
+msgid "Mute / Restore volume"
+msgstr "Silencia / Restableix el volum"
+
+msgid "Track List"
+msgstr "Llista de pistes"
+
+msgid "Eject disc"
+msgstr "Expulsa el disc"
+
+msgid "Keyboard Shortcuts"
+msgstr "Dreceres de teclat"
+
+msgid "About JustCD"
+msgstr "Quant a JustCD"
+
+msgid "Options"
+msgstr "Opcions"
+
+msgid "Open Source Technologies"
+msgstr "Tecnologies lliures"
+
+msgid "Technical Assistance"
+msgstr "Assistència tècnica"
+
+msgid "Close tray"
+msgstr "Tanca la safata"
+
+msgid "Tray Open / No CD"
+msgstr "Safata oberta / Sense CD"
+
+#, python-format
+msgid "Track %d"
+msgstr "Pista %d"
+
+msgid "Track 1"
+msgstr "Pista 1"
+
+msgid "Identifying album…"
+msgstr "S'està identificant l'àlbum…"
+
+msgid "Querying MusicBrainz…"
+msgstr "S'està consultant MusicBrainz…"
+
+msgid "Unknown Album"
+msgstr "Àlbum desconegut"
+
+msgid "Unknown Artist"
+msgstr "Artista desconegut"
+
+msgid "Reading CD…"
+msgstr "S'està llegint el CD…"
+
+msgid "Loading tracks…"
+msgstr "S'estan carregant les pistes…"
+
+msgid "Repeat: Full disc"
+msgstr "Repeteix: Disc complet"
+
+msgid "Repeat: Current track"
+msgstr "Repeteix: Pista actual"
+
+msgid "Audio CD Player"
+msgstr "Reproductor de CD d'àudio"
+
+msgid "Play audio compact discs with a simple and modern interface"
+msgstr "Reprodueix discs compactes d'àudio amb una interfície senzilla i moderna"
+
+msgid "Listen to Audio CDs"
+msgstr "Escolteu CDs d'àudio"

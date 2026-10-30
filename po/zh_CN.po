@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: justcd 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/marcopcabrera/JustCD/issues\n"
+"POT-Creation-Date: 2026-11-01 12:00+0000\n"
+"PO-Revision-Date: 2026-11-01 12:00+0000\n"
+"Last-Translator: Gemini AI\n"
+"Language-Team: Chinese (Simplified)\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "translator-credits"
+msgstr "Gemini AI"
+
+msgid "Preferences"
+msgstr "首选项"
+
+msgid "General"
+msgstr "常规"
+
+msgid "Playback"
+msgstr "回放"
+
+msgid "Automatic Playback"
+msgstr "自动播放"
+
+msgid "Start music immediately when a CD is inserted"
+msgstr "插入 CD 后立即开始播放音乐"
+
+msgid "Eject on Finish"
+msgstr "播放完毕后弹出"
+
+msgid "Open the tray automatically when the album ends"
+msgstr "专辑结束时自动打开托盘"
+
+msgid "Network and Privacy"
+msgstr "网络与隐私"
+
+msgid "Download Online Information"
+msgstr "下载在线信息"
+
+msgid "Query MusicBrainz for album covers and track names"
+msgstr "查询 MusicBrainz 获取专辑封面和曲目名称"
+
+msgid "Audio CD"
+msgstr "音频 CD"
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Insert an Audio CD"
+msgstr "请插入音频 CD"
+
+msgid "Random playback"
+msgstr "随机播放"
+
+msgid "Repeat: Disabled"
+msgstr "重复：已禁用"
+
+msgid "Mute / Restore volume"
+msgstr "静音 / 恢复音量"
+
+msgid "Track List"
+msgstr "曲目列表"
+
+msgid "Eject disc"
+msgstr "弹出光盘"
+
+msgid "Keyboard Shortcuts"
+msgstr "键盘快捷键"
+
+msgid "About JustCD"
+msgstr "关于 JustCD"
+
+msgid "Options"
+msgstr "选项"
+
+msgid "Open Source Technologies"
+msgstr "开源技术"
+
+msgid "Technical Assistance"
+msgstr "技术协助"
+
+msgid "Close tray"
+msgstr "关闭托盘"
+
+msgid "Tray Open / No CD"
+msgstr "托盘已打开 / 无 CD"
+
+#, python-format
+msgid "Track %d"
+msgstr "曲目 %d"
+
+msgid "Track 1"
+msgstr "曲目 1"
+
+msgid "Identifying album…"
+msgstr "正在识别专辑…"
+
+msgid "Querying MusicBrainz…"
+msgstr "正在查询 MusicBrainz…"
+
+msgid "Unknown Album"
+msgstr "未知专辑"
+
+msgid "Unknown Artist"
+msgstr "未知艺术家"
+
+msgid "Reading CD…"
+msgstr "正在读取 CD…"
+
+msgid "Loading tracks…"
+msgstr "正在加载曲目…"
+
+msgid "Repeat: Full disc"
+msgstr "重复：整张光盘"
+
+msgid "Repeat: Current track"
+msgstr "重复：当前曲目"
+
+msgid "Audio CD Player"
+msgstr "音频 CD 播放器"
+
+msgid "Play audio compact discs with a simple and modern interface"
+msgstr "通过简洁现代的界面播放音频光盘"
+
+msgid "Listen to Audio CDs"
+msgstr "聆听音频 CD"

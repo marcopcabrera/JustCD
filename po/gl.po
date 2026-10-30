@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: justcd 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/marcopcabrera/JustCD/issues\n"
+"POT-Creation-Date: 2026-11-01 12:00+0000\n"
+"PO-Revision-Date: 2026-11-01 12:00+0000\n"
+"Last-Translator: Gemini AI\n"
+"Language-Team: Galician\n"
+"Language: gl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "translator-credits"
+msgstr "Gemini AI"
+
+msgid "Preferences"
+msgstr "Preferencias"
+
+msgid "General"
+msgstr "Xeral"
+
+msgid "Playback"
+msgstr "Reprodución"
+
+msgid "Automatic Playback"
+msgstr "Reprodución automática"
+
+msgid "Start music immediately when a CD is inserted"
+msgstr "Iniciar a música inmediatamente ao inserir un CD"
+
+msgid "Eject on Finish"
+msgstr "Expulsar ao rematar"
+
+msgid "Open the tray automatically when the album ends"
+msgstr "Abrir a bandexa automaticamente ao rematar o disco"
+
+msgid "Network and Privacy"
+msgstr "Rede e privacidade"
+
+msgid "Download Online Information"
+msgstr "Descargar información en liña"
+
+msgid "Query MusicBrainz for album covers and track names"
+msgstr "Consultar MusicBrainz para obter portadas e nomes de pistas"
+
+msgid "Audio CD"
+msgstr "CD de son"
+
+msgid "Unknown"
+msgstr "Descoñecido"
+
+msgid "Insert an Audio CD"
+msgstr "Insira un CD de son"
+
+msgid "Random playback"
+msgstr "Reprodución aleatoria"
+
+msgid "Repeat: Disabled"
+msgstr "Repetición: Desactivada"
+
+msgid "Mute / Restore volume"
+msgstr "Silenciar / Restaurar volume"
+
+msgid "Track List"
+msgstr "Lista de pistas"
+
+msgid "Eject disc"
+msgstr "Expulsar disco"
+
+msgid "Keyboard Shortcuts"
+msgstr "Atallos de teclado"
+
+msgid "About JustCD"
+msgstr "Sobre JustCD"
+
+msgid "Options"
+msgstr "Opcións"
+
+msgid "Open Source Technologies"
+msgstr "Tecnoloxías libres"
+
+msgid "Technical Assistance"
+msgstr "Asistencia técnica"
+
+msgid "Close tray"
+msgstr "Pechar bandexa"
+
+msgid "Tray Open / No CD"
+msgstr "Bandexa aberta / Sen CD"
+
+#, python-format
+msgid "Track %d"
+msgstr "Pista %d"
+
+msgid "Track 1"
+msgstr "Pista 1"
+
+msgid "Identifying album…"
+msgstr "Identificando o álbum…"
+
+msgid "Querying MusicBrainz…"
+msgstr "Consultando MusicBrainz…"
+
+msgid "Unknown Album"
+msgstr "Álbum descoñecido"
+
+msgid "Unknown Artist"
+msgstr "Artista descoñecido"
+
+msgid "Reading CD…"
+msgstr "Lendo o CD…"
+
+msgid "Loading tracks…"
+msgstr "Cargando as pistas…"
+
+msgid "Repeat: Full disc"
+msgstr "Repetir: Disco completo"
+
+msgid "Repeat: Current track"
+msgstr "Repetir: Pista actual"
+
+msgid "Audio CD Player"
+msgstr "Reproductor de CD de son"
+
+msgid "Play audio compact discs with a simple and modern interface"
+msgstr "Reproduza discos compactos de son cunha interface sinxela e moderna"
+
+msgid "Listen to Audio CDs"
+msgstr "Escoite CDs de son"
