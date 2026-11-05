@@ -168,3 +168,15 @@ msgstr "Reproduce discos compactos de audio con una interfaz simple y moderna"
 #: data/io.github.marcopcabrera.JustCD.metainfo.xml.in:9
 msgid "Listen to Audio CDs"
 msgstr "Escucha CDs de audio"
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "Application Language"
+msgstr "Idioma de la aplicación"
+
+msgid "System Default"
+msgstr "Predeterminado del sistema"
+
+msgid "Restart required to apply changes"
+msgstr "Se requiere reiniciar para aplicar los cambios"

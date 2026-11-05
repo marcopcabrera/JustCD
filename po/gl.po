@@ -129,3 +129,15 @@ msgstr "Reproduza discos compactos de son cunha interface sinxela e moderna"
 
 msgid "Listen to Audio CDs"
 msgstr "Escoite CDs de son"
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "Application Language"
+msgstr "Idioma da aplicación"
+
+msgid "System Default"
+msgstr "Predeterminado do sistema"
+
+msgid "Restart required to apply changes"
+msgstr "É necesario reiniciar para aplicar os cambios"

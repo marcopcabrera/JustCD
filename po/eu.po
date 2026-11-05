@@ -129,3 +129,15 @@ msgstr "Erreproduzitu audio disko konpaktuak interfaze sinple eta moderno bateki
 
 msgid "Listen to Audio CDs"
 msgstr "Entzun audio CDak"
+
+msgid "Language"
+msgstr "Hizkuntza"
+
+msgid "Application Language"
+msgstr "Aplikazioaren hizkuntza"
+
+msgid "System Default"
+msgstr "Sistemaren lehenetsia"
+
+msgid "Restart required to apply changes"
+msgstr "Berrabiarazi behar da aldaketak aplikatzeko"

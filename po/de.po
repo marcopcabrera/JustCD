@@ -129,3 +129,15 @@ msgstr "Audio-CDs mit einer einfachen und modernen Benutzeroberfläche abspielen
 
 msgid "Listen to Audio CDs"
 msgstr "Audio-CDs anhören"
+
+msgid "Language"
+msgstr "Sprache"
+
+msgid "Application Language"
+msgstr "Anwendungssprache"
+
+msgid "System Default"
+msgstr "Systemstandard"
+
+msgid "Restart required to apply changes"
+msgstr "Neustart erforderlich, um Änderungen zu übernehmen"

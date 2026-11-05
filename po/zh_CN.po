@@ -129,3 +129,15 @@ msgstr "通过简洁现代的界面播放音频光盘"
 
 msgid "Listen to Audio CDs"
 msgstr "聆听音频 CD"
+
+msgid "Language"
+msgstr "语言"
+
+msgid "Application Language"
+msgstr "应用程序语言"
+
+msgid "System Default"
+msgstr "系统默认"
+
+msgid "Restart required to apply changes"
+msgstr "需要重启以应用更改"

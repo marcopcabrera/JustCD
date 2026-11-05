@@ -129,3 +129,15 @@ msgstr "シンプルでモダンなインターフェースで音楽CDを再生�
 
 msgid "Listen to Audio CDs"
 msgstr "音楽CDを聴く"
+
+msgid "Language"
+msgstr "言語"
+
+msgid "Application Language"
+msgstr "アプリの言語"
+
+msgid "System Default"
+msgstr "システムデフォルト"
+
+msgid "Restart required to apply changes"
+msgstr "変更を適用するには再起動が必要です"

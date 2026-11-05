@@ -129,3 +129,15 @@ msgstr "Воспроизведение аудио-компакт-дисков с
 
 msgid "Listen to Audio CDs"
 msgstr "Слушайте аудио CD"
+
+msgid "Language"
+msgstr "Язык"
+
+msgid "Application Language"
+msgstr "Язык приложения"
+
+msgid "System Default"
+msgstr "Системный по умолчанию"
+
+msgid "Restart required to apply changes"
+msgstr "Для применения изменений требуется перезапуск"
