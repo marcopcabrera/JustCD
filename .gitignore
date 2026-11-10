@@ -1,0 +1,6 @@
+.flatpak-builder/
+build-dir/
+repo/
+*.flatpak
+__pycache__/
+*.pyc

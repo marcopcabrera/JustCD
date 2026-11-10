@@ -1,6 +1,6 @@
 # JustCD
 
-A minimalist audio compact disc (CD-DA) player designed for GNOME and Fedora Linux.
+A sleek, minimalist audio compact disc (CD-DA) player for the GNOME desktop on Linux.
 
 ![JustCD Screenshot](screenshot.png)
 

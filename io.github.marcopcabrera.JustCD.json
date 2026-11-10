@@ -97,11 +97,12 @@
             "builddir" : true,
             "buildsystem" : "meson",
             "sources" : [
-                {
-                    "type" : "dir",
-                    "path" : "."
-                }
-            ]
+    {
+        "type" : "git",
+        "url" : "https://github.com/marcopcabrera/JustCD.git",
+        "tag" : "v1.0.0"
+    }
+]
         }
     ]
 }
